@@ -1,7 +1,8 @@
 repo_name: mauriliofilho/python-helloworld
 report_id: 87b5ce43269c4538e36e2e689825ed18
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-30T15:50:48+00:00'
+timestamp: '2024-01-05T08:31:35+00:00'
 requested_by: mauriliofilho
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/mauriliofilho/python-helloworld
   detection_source: Repo Metadata
 - name: Docker
   description: Enterprise Container Platform for High-Velocity Innovation.
@@ -26,6 +28,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/mauriliofilho/python-helloworld
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -35,6 +38,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mauriliofilho/python-helloworld
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -44,6 +48,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/mauriliofilho/python-helloworld/blob/main/.github/workflows/docker-build.yml
   detection_source: ".github/workflows/docker-build.yml"
   last_updated_by: Maurilio Filho
   last_updated_on: 2021-06-30 10:50:47.000000000 Z
@@ -55,6 +60,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/mauriliofilho/python-helloworld/blob/main/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Maurilio Filho
   last_updated_on: 2021-06-30 10:50:47.000000000 Z
@@ -68,7 +74,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19834/default_58dbe7b4d7ec447b62773209af0f9a31bbabf5bd.png
-  detection_source_url: github.com/mauriliofilho/python-helloworld/blob/main/requirements.txt
+  detection_source_url: https://github.com/mauriliofilho/python-helloworld/blob/main/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Maurilio Filho
   last_updated_on: 2021-06-30 10:50:47.000000000 Z
